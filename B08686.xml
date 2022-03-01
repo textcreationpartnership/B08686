@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of a Tory</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08686</idno>
+            <idno type="STC">Wing C1991B</idno>
+            <idno type="STC">ESTC R173667</idno>
+            <idno type="EEBO-CITATION">64551059</idno>
+            <idno type="OCLC">ocm 64551059</idno>
+            <idno type="VID">184440</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08686)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184440)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2864:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of a Tory</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Inghal the Elder, Bookbinder,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: broadside torn.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tory Party (Great Britain) --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="character">
+            <pb facs="tcp:184440:1"/>
+            <head>The Character of A Torey.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg> TORY</hi> is a <hi>Monſter</hi> with an <hi>Engliſh Face,</hi> a <hi>French Heart,</hi> and an <hi>Iriſh Conſcience.</hi> A Crea<g ref="char:EOLhyphen"/>ture of a Large <hi>Forehead,</hi> Prodigious <hi>Mouth,</hi> Supple <hi>Hams,</hi> and no <hi>Brains.</hi>
+            </p>
+            <p>The Country-mans Deſcription of him, was both Rhyme and Reaſon;
+<q>
+                  <l>Roary, Whorey, Sworey, Scorey,</l>
+                  <l>
+                     <hi>That's a</hi> TOREY:</l>
+               </q>
+            </p>
+            <p>For <hi>Noiſe</hi> and <hi>Debauchery, Oathes</hi> and <hi>Begga<g ref="char:EOLhyphen"/>ry,</hi> are the Four <hi>Elements</hi> that Compoſe him: His <hi>Arms</hi> are thoſe of <hi>Iſ<g ref="char:EOLhyphen"/>ſacher,</hi> An <hi>Aſs Couchant;</hi> and his Mark is a <hi>Red-Ribbon</hi> in his Capp, to ſhew, That he belongs to the <hi>Scarlet Whore,</hi> by her Bloody Livery; or elſe, you may take it for a <hi>Wedding favour,</hi> That whenever <hi>Popery</hi> and <hi>Tyranny</hi> ſhall make a <hi>Match,</hi> he would fain be a <hi>Bride-man.</hi>
+            </p>
+            <p>He ſeems Deſcended from <hi>Eſau,</hi> ſince he is ſo ready to Truck away an Invaluable <hi>Birthright</hi> for a <hi>French Kickſhaw,</hi> and a Nauſeous Meſs of <hi>Ita<g ref="char:EOLhyphen"/>lian Pottage.</hi> Or if you will run his <hi>Pedigree</hi> higher, you may call him a <hi>Noddite,</hi> one of the Race of <hi>Cain</hi> the Murderer, that would fain be <hi>Perſecuting</hi> his Brother, meerly becauſe he is <hi>more Righteous</hi> than Him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>Take our <hi>TORIES</hi> in the <hi>State,</hi> and they are <hi>Caterpillers</hi> that De<g ref="char:EOLhyphen"/>vour every <hi>Green thing</hi> in a Flouriſhing Kingdom, and would Stab <hi>Li<g ref="char:EOLhyphen"/>berty</hi> and <hi>Property</hi> to the Heart, That they themſelves, like <hi>Beaſts of Prey,</hi> might live wholly upon <hi>Spoil and Rapine;</hi> fit only to be Subjects to <hi>Nebuchadnezzar,</hi> when bereav'd of Human Sence, he Hearded with the <hi>Wild Aſſes</hi> of the <hi>Deſert.</hi> Though they boaſt themſelves <hi>Engliſhmen,</hi> yet they Act in all things as <hi>Antipodes</hi> to their Native Country; and ſeem rather <hi>Bog-trotters</hi> Tranſplanted, the Spawn of ſome <hi>Red-ſhanks,</hi> or the By-blows of the Old <hi>Lazy Lord-Danes,</hi> that once Domineer'd over our Anceſtors: They are a ſort of <hi>Wild Boars,</hi> that would root out the Con<g ref="char:EOLhyphen"/>ſtitution, and break the Ballance of our happy Government; and render that <hi>Deſpotick,</hi> which hitherto has been both Eſtabliſhed and bounded by <hi>Law. Fauxes</hi> in Maſquerade, that with <hi>Dark-lanthorn</hi> Polices, would at once blow up the Two Bulwarks of our Freedom, <hi>PARLIAMENTS</hi> and <hi>J<g ref="char:V">Ʋ</g>RIES;</hi> making the <hi>Firſt,</hi> only a <hi>Parliament of Paris:</hi> and the <hi>Latter,</hi> but meer Tools, to <hi>Eccho</hi> back the pleaſure of a Judge. They are ſo certain, That <hi>Monarchy</hi> is <hi>Jure Divino;</hi> That they look upon all Peo<g ref="char:EOLhyphen"/>ple living under <hi>Ariſtocracys,</hi> or <hi>Democracys,</hi> to be in a State of <hi>Damma<g ref="char:EOLhyphen"/>tion.</hi> And fancie, That the <hi>Grand Seignior,</hi> the <hi>Czar of Muſcovy,</hi> and the <hi>French King</hi> dropt down from <hi>Heaven</hi> with <hi>Crowns</hi> on their Heads, and that all their Subjects were Born with <hi>Saddles</hi> on their Backs. Your True <hi>TORY</hi> is as fond of <hi>Slavery,</hi> as others are of <hi>Liberty,</hi> and will be at as much Pains and <hi>Charge</hi> to obtain it; for he Envies the Happineſs of <hi>Canvas Breeches</hi> and <hi>Wooden Shoes;</hi> and extreamly Admires the Mercy of the <hi>Inquiſition.</hi> He Rails at <hi>Magna Charta</hi> as the Seed-plot of <hi>Sedition;</hi> Swears, That it was firſt obtained by <hi>Rebellion,</hi> and that all our Fore-fa<g ref="char:EOLhyphen"/>thers were <hi>Rogues and Fools,</hi> and did not underſtand <hi>Prerogative.</hi> He won<g ref="char:EOLhyphen"/>ders, why People ſhould ſquander away their time at the <hi>Inns of Court,</hi> or what need there is either of the <hi>Common Law,</hi> or the <hi>Statute-Book,</hi> the King might at any time, with quicker diſpatch declare his Pleaſure in any Point or Controverſie, and each Loyal Subject were bound to Acqui<g ref="char:EOLhyphen"/>eſce, on pain of Damnation. Yet after all, his boaſted <hi>Loyalty</hi> extends no further than a Drunken Health; He <hi>Roars</hi> and <hi>Swaggers,</hi> but does not <hi>Serve</hi> the King: He promiſes Mountains, and by <hi>Lies</hi> and Miſrepreſen<g ref="char:EOLhyphen"/>tations, gives <hi>Falſe Meaſures,</hi> but performs nothing: Nor is it the Cauſe, but the Cruſt, that he Barks for.</p>
+            <p>Then in Relation to the Church,—<hi>TORY</hi> is either a <hi>Crab-Prote<g ref="char:EOLhyphen"/>ſtant,</hi> that <hi>crawls backwards</hi> as faſt as he can to <hi>Rome;</hi> or at beſt, but the
+<pb facs="tcp:184440:1"/>
+               <hi>Catts-foot</hi> wherewith the Romiſh <hi>Monkeys</hi> Claw the Proteſtant Religion till the Blood comes: one that does their Drugery though he has not always the Wit to ſee it, and all the Wages he muſt expect, is <hi>Polypheme's</hi> Curteſie, To be Devoured <hi>Laſt.</hi> He is a <hi>Flambeau</hi> kindled by the <hi>Jeſuits,</hi> and flung in, to make a <hi>Combuſtion</hi> amongſt us. Whilſt we were Hunt<g ref="char:EOLhyphen"/>ing down their <hi>Plot</hi> with a full Cry, they ſlipt in this <hi>Deep-mouth'd</hi> Hound, who ſpending on a <hi>falſe Scent</hi> diverted the Chaſe, and ſo the <hi>Po<g ref="char:EOLhyphen"/>piſh Puſs ſquats ſafe in her Form:</hi> and now quitting the Purſuit of the <hi>Foxes,</hi> he begins to Worry the <hi>Sheep.</hi> He pretends high for the Church of <hi>England;</hi> but as he underſtands not her Doctrin, ſo he Diſhonours her by his Lewd Converſation: What a pretty Pious Confeſſion of Faith is it, to hear a <hi>Bully</hi> Cry,—<hi>God-Dam-Mce, I am of the Church of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>and all the</hi> Presbyterians <hi>are Sons of Whores.</hi> Indeed, the only proof both of his <hi>Religion</hi> and <hi>Courage,</hi> is, That he Swears moſt frequently by that <hi>Tremendous</hi> Name, at which, leſſer Devils Tremble: and his Chriſti<g ref="char:EOLhyphen"/>anity conſiſts in <hi>Curſing</hi> all thoſe that he is pleaſed to call <hi>Phanaticks,</hi> and <hi>Phanaticks</hi> he calls all thoſe, that are not content to be either <hi>Papiſts</hi> or <hi>A<g ref="char:EOLhyphen"/>theiſts.</hi> His <hi>Tongue</hi> is always Tipt with <hi>Dam—mee,</hi> and <hi>Forty one;</hi> and ſo <hi>hot,</hi> (being ſet on Fire of <hi>Hell</hi>) that he is fain to drink <hi>Healths,</hi> (ſome<g ref="char:EOLhyphen"/>times to the <hi>Pope,</hi> and ſometimes to the <hi>Devil,)</hi> Sixty times an Hour to quench it; and then Belches out <hi>Huzza</hi>'s as faſt, as Mount <hi>Strombulo</hi> does Fire and Brimſtone.</p>
+            <p>Whilſt he Clamours at <hi>Diſſenters</hi> for not coming to <hi>Church,</hi> he thinks 'tis Canonical enough to <hi>Sleep</hi> over the <hi>Lordsday</hi> to Digeſt the Fumes of <hi>Saturdays</hi> Debauch, or take a walk in <hi>Guild-Hall-yard,</hi> peep in at the Prea<g ref="char:EOLhyphen"/>cher, and preſently Retire to the Tavern for a whet to Dinner, or elſe to meet the Club of <hi>Witty Good-mockers</hi> by <hi>Fleet-Ditch</hi> ſide, and Droll away the day in Blaſphemy, Ridiculing Religious Duties, or Inventing <hi>Jack-Pudding Lies</hi> of ſome pretended <hi>Nonconformiſts</hi> Preaching. If he be ſome<g ref="char:EOLhyphen"/>what of a more Serious Temper, he is as very a ſuperſtitious <hi>Bigot,</hi> as any in the <hi>Papacy,</hi> he would rather have no Preaching than that the Surplic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould be left off, and thinks his Child not <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it be not done with the ſign of the <hi>Cro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> he counts <hi>Opus operatum</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cient, and if he have but been at <hi>Common-Prayer,</hi> and made his <hi>Reſponſes</hi> loud enough to drown the Clark, and had the Parſons Bleſſing, his Task is done and all is ſafe. Fleſh on a <hi>Friday</hi> is more Abomination to Him, than his Neighbours Bed, and he Abhors more not to <hi>Bow</hi> at the Syllables of the word <hi>Jeſus,</hi> than to Swear by the name of <hi>God.</hi>
+            </p>
+            <p>He has got a <hi>New Engliſh Dictionary</hi> Framed by the Indefatigable Skill of <hi>Heraclitus</hi> and the <hi>Obſervator,</hi> whereby he Traverſties the moſt Loyal ho<g ref="char:EOLhyphen"/>neſt Senſe into <hi>Blaſphemy</hi> and <hi>Treaſon.</hi> Talk ſoberly of <hi>Religion,</hi> and he Elaps you over the Face with Hereſy, Schiſm, Fanaticiſm and Faction, or roundly calls you <hi>Confounded Whigg,</hi> and ſo you are Confuted. Urge never ſo modeſtly <hi>Legal Fundamental Rights,</hi> and mention Irregularities, though in a place appointed to Remedy them, he cries out, <hi>Rebellion! Treaſon!</hi> You <hi>Depoſe the King!</hi> You <hi>Arraign the Government</hi> &amp;c. Mention the <hi>Com<g ref="char:EOLhyphen"/>mons</hi> of <hi>England</hi> and the <hi>General Senſe</hi> of the Nation, and he exclaims, Dam the <hi>Mobile</hi> and your <hi>Appeals</hi> to the <hi>Rabble;</hi> And yet at the ſame time Courts and Applauds Tagg Ragg and Long-tail, the <hi>Cooks and Chandlers of New Sarum,</hi> and ſuch other <hi>Worſhipful Patriots,</hi> for declaring their three half-penny Judgments of the higheſt Affairs of State, in their <hi>Ad<g ref="char:EOLhyphen"/>dreſſes.</hi> And as for the two laſt Parliaments, every petty <hi>Chap-man,</hi> or <hi>Ap<g ref="char:EOLhyphen"/>prentice-Boy,</hi> takes upon him to Cenſure the grave Proceedings of thoſe <hi>Venerable Senates,</hi> as malepartly as if they had been but a Company of Fidlers.</p>
+            <p>Yet ſtill he fears not <hi>God,</hi> ſo much as a <hi>Parliament:</hi> But the reaſon why he Blaſphemes the <hi>one,</hi> and Rails at the <hi>other,</hi> is becauſe as he really be<g ref="char:EOLhyphen"/>leives not a Future Judgment in the <hi>other</hi> World, So he puts <hi>far off</hi> the other (to him) evil day in <hi>this,</hi> and hopes to Eſcape the Juſtice of both, by the Mediation of Saint <hi>Noli Proſequi.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>William Inghal</hi> the Elder, Bookbinder. 1681.</p>
+            <pb facs="tcp:184440:2" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
